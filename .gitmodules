@@ -1,0 +1,6 @@
+[submodule "Embedded-frontend"]
+	path = Embedded-frontend
+	url = https://github.com/ngochoaphan2004/Embedded-frontend
+[submodule "embedded-backend"]
+	path = embedded-backend
+	url = https://github.com/ngochoaphan2004/embedded-backend
